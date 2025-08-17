@@ -1,0 +1,19 @@
+{
+  "name": "juhnovais/composer-plugins.git",
+  "description": "",
+  "keywords": [
+    "wordpress",
+    "plugin"
+  ],
+  "homepage": "https://github.com/juhnovais/composer-plugins.git",
+  "authors": [
+    {
+      "name": "Original Plugin Author's Name",
+      "homepage": "https://originalpluginurl.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=8.0"
+  }
+}
