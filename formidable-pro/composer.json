@@ -1,0 +1,12 @@
+{
+    "name": "affinity/formidable-pro",
+    "description": "Git mirror of Formidable Pro",
+    "authors": [
+        {
+            "name": "Kurt Livie",
+            "email": "kurt@affinityagency.co.uk"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {}
+}

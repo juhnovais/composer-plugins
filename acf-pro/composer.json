@@ -1,0 +1,12 @@
+{
+    "name": "affinity/acf-pro",
+    "description": "Git mirror of Advanced Custom Fields Pro",
+    "authors": [
+        {
+            "name": "Matthew Layden",
+            "email": "matthew@affinityagency.co.uk"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {}
+}

@@ -1,0 +1,12 @@
+{
+    "name": "affinity/wp-cerber",
+    "description": "WP Cerber",
+    "authors": [
+        {
+            "name": "Joel Graham",
+            "email": "joel@affinityagency.co.uk"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {}
+}
